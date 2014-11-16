@@ -1,0 +1,125 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+.social-icon {
+  border-bottom: 5px solid rgba(0,0,0,0.25);
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  margin-bottom: 16px;
+  padding: 16px;
+  padding-bottom: 11px;
+  text-align: center;
+  text-shadow: 1px 1px rgba(0,0,0,0.25);
+  text-transform: uppercase;
+  width: 100%;
+}
+.social-icon.appleappstore {
+  background:#050708;
+}
+.social-icon.behance {
+  background:#1769ff;
+}
+.social-icon.blogger {
+  background:#f57d00;
+}
+.social-icon.delicious {
+  background:#3399ff;
+}
+.social-icon.deviantart {
+  background:#4e6252;
+}
+.social-icon.disqus {
+  background:#2e9fff;
+}
+.social-icon.dribbble {
+  background:#444444;
+}
+.social-icon.ello {
+  background:#333333;
+}
+.social-icon.etsy {
+  background:#d5641c;
+}
+.social-icon.facebook {
+  background:#3b5998;
+}
+.social-icon.feedly {
+  background:#6cc655;
+}
+.social-icon.flickr {
+  background:#ff0084;
+}
+.social-icon.ghost {
+  background:#212425;
+}
+.social-icon.github {
+  background:#9CDAF0;
+}
+.social-icon.googleplay {
+  background:#a4c639;
+}
+.social-icon.googleplus {
+  background:#d34836;
+}
+.social-icon.grooveshark {
+  background:#f86f09;
+}
+.social-icon.instagram {
+  background:#517FA4;
+}
+.social-icon.kickstarter {
+  background:#2bde73;
+}
+.social-icon.lastfm {
+  background:#c3000d;
+}
+.social-icon.linkedin {
+  background:#007BB6;
+}
+.social-icon.pinterest {
+  background:#CB2027;
+}
+.social-icon.reddit {
+  background:#ff4500;
+}
+.social-icon.rss {
+  background:#F26522;
+}
+.social-icon.snapchat {
+  background:#FFFC00;
+}
+.social-icon.soundcloud {
+  background:#FF8800;
+}
+.social-icon.spotify {
+  background:#7AB800;
+}
+.social-icon.stackoverflow {
+  background:#fe7a15;
+}
+.social-icon.stripe {
+  background:#00afe1;
+}
+.social-icon.stumbleupon {
+  background:#eb4924;
+}
+.social-icon.twitch {
+  background:#6441a5;
+}
+.social-icon.tumblr {
+  background:#32506d;
+}
+.social-icon.twitter {
+  background:#4099FF;
+}
+.social-icon.vimeo {
+  background:#0072B1;
+}
+.social-icon.vine {
+  background:#00bf8f;
+}
+.social-icon.wordpress{
+  background:#21759b;
+}
+.social-icon.youtube {
+  background:#bb0000;
+}
