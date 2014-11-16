@@ -1,5 +1,6 @@
 CSS3 Social Banners
 =================
+![CSS3 Social Banners Logo](http://ojdon.github.io/assets/blog/20141116/logo.png)
 ##Overview
 A collection of minimal vanilla CSS3 social icons that require no images and are independent of CSS Frameworks. Each of the CSS3 Social Banners are designed to span the full width of a HTML element as these social banners are designed to be used with a grid system of your choice such as the one found in [Bootstrap 3](http://getbootstrap.com/css/#grid).
 
