@@ -1,0 +1,127 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+.social-icon {
+  border-bottom: 5px solid rgba(0,0,0,0.25);
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  margin-bottom: 16px;
+  padding: 16px;
+  padding-bottom: 11px;
+  text-align: center;
+  text-shadow: 1px 1px rgba(0,0,0,0.25);
+  text-transform: uppercase;
+  width: 100%;
+
+  &.appleappstore {
+    background:#050708;
+  }
+  &.behance {
+    background:#1769ff;
+  }
+  &.blogger {
+    background:#f57d00;
+  }
+  &.delicious {
+    background:#3399ff;
+  }
+  &.deviantart {
+    background:#4e6252;
+  }
+  &.disqus {
+    background:#2e9fff;
+  }
+  &.dribbble {
+    background:#444444;
+  }
+  &.ello {
+    background:#333333;
+  }
+  &.etsy {
+    background:#d5641c;
+  }
+  &.facebook {
+    background:#3b5998;
+  }
+  &.feedly {
+    background:#6cc655;
+  }
+  &.flickr {
+    background:#ff0084;
+  }
+  &.ghost {
+    background:#212425;
+  }
+  &.github {
+    background:#9CDAF0;
+  }
+  &.googleplay {
+    background:#a4c639;
+  }
+  &.googleplus {
+    background:#d34836;
+  }
+  &.grooveshark {
+    background:#f86f09;
+  }
+  &.instagram {
+    background:#517FA4;
+  }
+  &.kickstarter {
+    background:#2bde73;
+  }
+  &.lastfm {
+    background:#c3000d;
+  }
+  &.linkedin {
+    background:#007BB6;
+  }
+  &.pinterest {
+    background:#CB2027;
+  }
+  &.reddit {
+    background:#ff4500;
+  }
+  &.rss {
+    background:#F26522;
+  }
+  &.snapchat {
+    background:#FFFC00;
+  }
+  &.soundcloud {
+    background:#FF8800;
+  }
+  &.spotify {
+    background:#7AB800;
+  }
+  &.stackoverflow {
+    background:#fe7a15;
+  }
+  &.stripe {
+    background:#00afe1;
+  }
+  &.stumbleupon {
+    background:#eb4924;
+  }
+  &.twitch {
+    background:#6441a5;
+  }
+  &.tumblr {
+    background:#32506d;
+  }
+  &.twitter {
+    background:#4099FF;
+  }
+  &.vimeo {
+    background:#0072B1;
+  }
+  &.vine {
+    background:#00bf8f;
+  }
+  &.wordpress{
+    background:#21759b;
+  }
+  &.youtube {
+    background:#bb0000;
+  }
+}
