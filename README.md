@@ -60,7 +60,7 @@ And then insert a new HTML element for the desired CSS3 Social Banners you wish 
 Simple as that!
 
 ## Demo
-You can view all of the social banners available on this demo page [here](http://ojdon.github.io/projects/social-banners/).
+You can view all of the social icons available on this demo page [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/ojdon/css3-social-banners/master/demo.html).
 
 ## Banner request
 If you wish for a Social Banner to be created for you then please provide me with the social platform that you desire and their brand colour by either raising an issue on this repository or by sending me a tweet via [my Twitter](http://twitter.com/ojdon) profile.
