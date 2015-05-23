@@ -1,0 +1,169 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+/*Palette*/
+$appleappstore: #050708;
+$behance: #1769ff;
+$blogger: #f57d00;
+$delicious: #3399ff;
+$deviantart: #4e6252;
+$disqus: #2e9fff;
+$dribbble: #444444;
+$ello: #333333;
+$etsy: #d5641c;
+$facebook: #3b5998;
+$feedly: #6cc655;
+$flickr: #ff0084;
+$ghost: #212425;
+$github: #9CDAF0;
+$googleplay: #a4c639;
+$googleplus: #d34836;
+$grooveshark: #f86f09;
+$instagram: #517FA4;
+$kickstarter: #2bde73;
+$lastfm: #c3000d;
+$linkedin: #007BB6;
+$pinterest: #CB2027;
+$reddit: #ff4500;
+$rss: #F26522;
+$snapchat: #FFFC00;
+$soundcloud: #FF8800;
+$spotify: #7AB800;
+$stackoverflow: #fe7a15;
+$stripe: #00afe1;
+$stumbleupon: #eb4924;
+$twitch: #6441a5;
+$tumblr: #32506d;
+$twitter: #4099FF;
+$vimeo: #0072B1;
+$vine: #00bf8f;
+$wordpress: #21759b;
+$youtube: #bb0000;
+
+@mixin color($var) {
+  background: $var;
+  border-bottom: 5px solid darken($var, 10%);
+  text-shadow: 1px 1px darken($var, 10%);
+}
+
+.social-icon {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  margin-bottom: 16px;
+  padding: 16px;
+  padding-bottom: 11px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+}
+  .appleappstore {
+    @include color($appleappstore);
+  }
+  .behance {
+    @include color($behance);
+  }
+  .blogger {
+    @include color($blogger);
+  }
+  .delicious {
+    @include color($delicious);
+  }
+  .deviantart {
+    @include color($deviantart);
+  }
+  .disqus {
+    @include color($disqus);
+  }
+  .dribbble {
+    @include color($dribbble);
+  }
+  .ello {
+    @include color($ello);
+  }
+  .etsy {
+    @include color($etsy);
+  }
+  .facebook {
+    @include color($facebook);
+  }
+  .feedly {
+    @include color($feedly);
+  }
+  .flickr {
+    @include color($flickr);
+  }
+  .ghost {
+    @include color($ghost);
+  }
+  .github {
+    @include color($github);
+  }
+  .googleplay {
+    @include color($googleplay);
+  }
+  .googleplus {
+    @include color($googleplus);
+  }
+  .grooveshark {
+    @include color($grooveshark);
+  }
+  .instagram {
+    @include color($instagram);
+  }
+  .kickstarter {
+    @include color($kickstarter);
+  }
+  .lastfm {
+    @include color($lastfm);
+  }
+  .linkedin {
+    @include color($linkedin);
+  }
+  .pinterest {
+    @include color($pinterest);
+  }
+  .reddit {
+    @include color($reddit);
+  }
+  .rss {
+    @include color($rss);
+  }
+  .snapchat {
+    @include color($snapchat);
+  }
+  .soundcloud {
+    @include color($soundcloud);
+  }
+  .spotify {
+    @include color($spotify);
+  }
+  .stackoverflow {
+    @include color($stackoverflow);
+  }
+  .stripe {
+    @include color($stripe);
+  }
+  .stumbleupon {
+    @include color($stumbleupon);
+  }
+  .twitch {
+    @include color($twitch);
+  }
+  .tumblr {
+    @include color($tumblr);
+  }
+  .twitter {
+    @include color($twitter);
+  }
+  .vimeo {
+    @include color($vimeo);
+  }
+  .vine {
+    @include color($vine);
+  }
+  .wordpress{
+    @include color($wordpress);
+  }
+  .youtube {
+    @include color($youtube);
+  }
+
