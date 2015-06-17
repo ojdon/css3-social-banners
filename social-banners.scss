@@ -44,8 +44,9 @@ $youtube: #bb0000;
   text-shadow: 1px 1px darken($var, 10%);
 }
 
-.social-icon {
+.social-banner, .social-icon {
   color: #FFF;
+  display: block;
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
   margin-bottom: 16px;
@@ -166,4 +167,3 @@ $youtube: #bb0000;
   .youtube {
     @include color($youtube);
   }
-
